@@ -1,2 +1,2 @@
-# Creating-a-Realtime-CoronaVirus-Outbreak-Notification-System
- Creating a Realtime CoronaVirus Outbreak Notification System Using Python Programming.
+# Creating Realtime CoronaVirus-19 Outbreak Notificatin System
+ Creating  Realtime CoronaVirus -19 Outbreak Notification System Using Python Programming.
